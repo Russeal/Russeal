@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working at Turin Polytechnic University in Tashkent as a teacher of Object Oriented Programming course
+- 🌱 I'm currently learning Deep Learning and Drone technologies
+- 📫 How to reach me: a.bobonazarov@polito.uz
 <!--
 **Russeal/Russeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
